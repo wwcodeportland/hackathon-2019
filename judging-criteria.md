@@ -8,9 +8,9 @@
 
 ## Use of IoT Hardware:
 - How did you leverage the IoT hardware to solve your problem statement?
-- Did you make creative hardware substitutions when you lacked the exact part they needed?
-- Did you bring in additional hardware beside what was provided?
+- Did you make creative hardware substitutions when you lacked the exact part you needed?
+- Did you bring in additional hardware, beside what was provided (please state what if so!)?
 
 ## Usability and Accessibility:
-- Have they considered how users will interact with and find value in their product?
-- Were they able to think through and implement a user interface.
+- Have you considered how users will interact with and find value in your product?
+- Were you able to think through and implement a user interface?
